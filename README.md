@@ -10,8 +10,7 @@
 **{fmt}** is an open-source formatting library providing a fast and safe
 alternative to C stdio and C++ iostreams.
 
-If you like this project, please consider donating to one of the funds
-that help victims of the war in Ukraine: <https://www.stopputin.net/>.
+No any politicians, just pure code here!
 
 [Documentation](https://fmt.dev)
 
