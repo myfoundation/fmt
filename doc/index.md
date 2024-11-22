@@ -68,7 +68,7 @@ hide:
   with UTF-8 and <code>char</code> strings. For example:
 
   <pre><code class="language-cpp"
-  >fmt::print("Слава Україні!");</code></pre>
+  >fmt::print("No any politicians, just pure code here!");</code></pre>
 
   will be printed correctly on Linux, macOS, and even Windows console,
   irrespective of the codepages.
